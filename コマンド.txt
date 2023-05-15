@@ -1,0 +1,2 @@
+◆Anacondaでローカルサーバ起動
+python -m http.server 8080
